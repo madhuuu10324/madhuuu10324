@@ -46,8 +46,8 @@
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=madhuuu10324&show_icons=true&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuuu10324&layout=compact&theme=radical" />
 </div>
 
 ---
