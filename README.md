@@ -1,97 +1,32 @@
-## Hi there 👋
+<!-- BANNER -->
+<img src="./banner.gif" width="100%" height="50%" alt="banner" />
 
-<!--
-  Hey there! 👋 Welcome to my GitHub Profile.
-  🚀 Let’s synergize and optimize some code pipelines!
--->
+<h1 align="center">Hey there 👋, I'm Madhu</h1>
+<h3 align="center">Final Year CSE @SRM | Frontend Dev | Growth + Data Curious | Building my way into Google 🔥</h3>
 
-<div align="center">
-  <!-- Profile Banner -->
-  <img src="https://github.com/your-username/your-username/raw/main/banner.png" alt="Profile Banner" width="100%" />
-
-  <!-- Name & Tagline -->
-  <h1>Hi, I’m <span style="color:#61dafb;">Madhu</span>! 👋</h1>
-  <p>Final-year B.Tech CSE student | Full‑Stack Enthusiast | AI & Cloud Evangelist</p>
-
-  <!-- Social / Contact Buttons -->
-  <p>
-    <a href="https://linkedin.com/in/your-linkedin" target="_blank">🔗 LinkedIn</a> &nbsp;|&nbsp;
-    <a href="https://twitter.com/your-twitter" target="_blank">🐦 Twitter</a> &nbsp;|&nbsp;
-    <a href="mailto:your.email@example.com">✉️ Email</a>
-  </p>
-
-  <!-- Tech Stack Badges -->
-  <p>
-    <!-- replace with your actual skills -->
-    <img alt="Python" src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript" />
-    <img alt="React" src="https://img.shields.io/badge/-React-333?style=flat&logo=react" />
-    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js" />
-    <img alt="AWS" src="https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-333?style=flat&logo=docker" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Frontend+Engineer+by+day.;Growth+Analyst+by+night.;Manifesting+Google+one+commit+at+a+time." alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 🎓 **Student**: Final year, B.Tech in Computer Science & Engineering  
-- 💼 **Current Focus**: Full‑stack dev, cloud infra, AI/ML  
-- 🛠️ **Hobbies**: Open‑source contributions, hackathons, gaming  
-- 🌱 **Learning**: Kubernetes, GraphQL, and DevOps automation  
-
+- 🧑‍💻 Developer Intern @ Victopia Labs — React, Next.js, Django, React Native
+- 🌱 Currently mastering DSA (Striver Sheet) + Advanced JavaScript + System Design
+- 🧪 Building projects that blend **UI + Growth + Analytics**
+- 💼 Actively looking for **Frontend roles** or **Marketing Data Analyst** gigs
 ---
 
-## 🔥 GitHub Stats
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=madhuuu10324&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuuu10324&layout=compact&theme=radical" />
-</div>
-
----
-
-## 📫 How to Reach Me
-
-```bash
-  +==-:::-++=+                            
-                                                          **+++-:-+##*=-:::                         
-                                                        ##%##*+=+**=:=-:-+***++                     
-                                                      ##%%%%##**=-:::-+###%%%%%#*                   
-                                                    %%%%%*=::::::..:::-+#%@@%%%%%###                
-                                                  %#%%%#=-=----::::::::-+#%@@@%%%%%%#               
-                                                 ##%@@#+++=====-=======++*#%@@@%@%%%%%%             
-                                                #%%@@%+==========+********##%@@@@@@@%%%%            
-                                               #%%@@%*=======++===+******###%@@@@@@@@%%%%           
-                                              #%%@@@#++++++++++++++******####%@@@@@@@@%%%#          
-                                             ##%@@@#*****+++++++***********##%@@@@@@@@@@%%%         
-                                             #%@@@%##*###*++++***#########*##%@@@@@@@@@@%%%%        
-                                           ##%%@@@%%**@%%#*++**##%%%#########%%@@@@@@@%%@%%%#       
-                                          %%%%%@@%%#**#%##*****#%%%#%%%%##*##%%@@@@@@@@@@%%%%%      
-                                        %%%@@%%%#*********++***##%##%%%%%##*##%@@@@@@@@@@%%%%#%     
-                                       %%%@@@%%#++++++++-::+*****#############%@@@@@@@@@@@%%%%%     
-                                        %@@%%%#++==+**+==+++**********++*****#%@@@@@@@@@@@@@%%%%    
-                                       %%%%@%%*+=++*#*****###**##++++++++****#%@@@@@@@@@@@@@%%%%    
-                                       %%%@@@%#+**##*****######**+=++++++****#%@@@@@@@@@@@@@@%%%    
-                                       %%%@@@%#++*##*##**####***##****+++***##%@@@@@@@@@@@@@@@@%    
-                                       %%@@@@@#+++*###*+****#%%#####********#%%@@@@@@@@@@@@@@@@%@   
-                                       %%@@%%@%*+++**++++**#####%%######***##%%%%@@@@@@@@@@@@@@%%   
-                                        %%@@@@@%*++****#####****###********#%%%*+#@@@@@@@@@@@@@%%   
-                                        %@@%@@@@#**+++++*****##**#####***##%@@%@@@@@@@@@@@@@@@@%%   
-                                        %%%%@@@@@%**++++*******###########%@@@@@@@@@@@@@@@@@@@@%%@  
-                                      ###%@@@@@@@@@%****###############%%%@@@@@@@@@@@@@@@@@@@@@@@@  
-                                     %#%@@@@@@@@@@@@@##%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@  
-                                    ##%%@@@@@@@@@@@@@###%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@%%@ 
-                                  ####%%@@@@@@@@@@@@@######%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%@ 
-                                  ##%%@@@@@@@@@@@@@@@%#######%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@
-                                  %%%@@@@@@@@@@@@@@@@@%######%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%
-                                 ##%%@@@@@@@@@@@@@@@@@%##########%%%%%@@@@@@@@@@@@@@@%@@@@@@@@@@@@%%
-                               *=#%@@@@@@@@@@@@@@@@@@@@%##*######%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%##
-                              +*%%%@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*+
-                            **##%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#+
-                           **##%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*
-                         +*##%%%@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#
-                        ****#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-                         **#%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@
+```ts
+const stack = {
+  frontend: ["React", "Next.js", "Tailwind", "Framer Motion", "React Native"],
+  backend: ["Node.js", "Django", "Express", "REST APIs"],
+  data: ["Python", "SQL", "Pandas", "Google Analytics"],
+  tools: ["Figma", "VS Code", "Postman", "Git", "Jira", "Vercel"],
+};
 ```
+### Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=madhu-cse&show_icons=true&theme=radical&count_private=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhu-cse&theme=radical" height="165" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhu-cse&layout=compact&theme=radical" /> </p>
